@@ -1,0 +1,21 @@
+match_id,match_type,gender,date,venue,city,team1,team2,toss_winner,toss_decision,winner,player_of_match,innings1_team,innings1_runs,innings1_wickets,innings2_team,innings2_runs,innings2_wickets,year
+1001349,T20,male,2017-02-17,Melbourne Cricket Ground,Unknown,Australia,Sri Lanka,Sri Lanka,field,Sri Lanka,DAS Gunaratne,Australia,168,6,Sri Lanka,172,5,2017
+1001351,T20,male,2017-02-19,"Simonds Stadium, South Geelong",Victoria,Australia,Sri Lanka,Sri Lanka,field,Sri Lanka,DAS Gunaratne,Australia,173,10,Sri Lanka,176,8,2017
+1001353,T20,male,2017-02-22,Adelaide Oval,Unknown,Australia,Sri Lanka,Sri Lanka,field,Australia,A Zampa,Australia,187,6,Sri Lanka,146,10,2017
+1004729,T20,male,2016-09-05,"Bready Cricket Club, Magheramason",Londonderry,Ireland,Hong Kong,Hong Kong,bat,Hong Kong,,Hong Kong,169,5,Ireland,129,10,2016
+1007655,T20,male,2016-06-18,Harare Sports Club,Unknown,Zimbabwe,India,India,field,Zimbabwe,E Chigumbura,Zimbabwe,170,7,India,168,6,2016
+1007657,T20,male,2016-06-20,Harare Sports Club,Unknown,Zimbabwe,India,Zimbabwe,bat,India,BB Sran,Zimbabwe,99,9,India,103,0,2016
+1007659,T20,male,2016-06-22,Harare Sports Club,Unknown,Zimbabwe,India,Zimbabwe,field,India,KM Jadhav,India,138,6,Zimbabwe,135,6,2016
+1019979,T20,male,2017-01-03,McLean Park,Napier,New Zealand,Bangladesh,Bangladesh,bat,New Zealand,KS Williamson,Bangladesh,141,8,New Zealand,143,4,2017
+1019981,T20,male,2017-01-06,Bay Oval,Mount Maunganui,New Zealand,Bangladesh,Bangladesh,field,New Zealand,C Munro,New Zealand,195,7,Bangladesh,148,10,2017
+1019983,T20,male,2017-01-08,Bay Oval,Mount Maunganui,New Zealand,Bangladesh,Bangladesh,field,New Zealand,CJ Anderson,New Zealand,194,4,Bangladesh,167,6,2017
+1020029,T20,male,2017-02-17,Eden Park,Auckland,New Zealand,South Africa,New Zealand,field,South Africa,Imran Tahir,South Africa,185,6,New Zealand,107,10,2017
+1031431,T20,male,2017-06-21,The Rose Bowl,Southampton,England,South Africa,South Africa,bat,England,JM Bairstow,South Africa,142,3,England,143,1,2017
+1031433,T20,male,2017-06-23,County Ground,Taunton,England,South Africa,England,field,South Africa,CH Morris,South Africa,174,8,England,171,6,2017
+1031435,T20,male,2017-06-25,Sophia Gardens,Cardiff,England,South Africa,South Africa,field,England,DJ Malan,England,181,8,South Africa,162,7,2017
+1031665,T20,male,2017-09-16,Riverside Ground,Chester-le-Street,West Indies,England,England,field,West Indies,SP Narine,West Indies,176,9,England,155,10,2017
+1034825,T20,male,2017-01-26,Green Park,Kanpur,India,England,England,field,England,MM Ali,India,147,7,England,148,3,2017
+1034827,T20,male,2017-01-29,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,India,England,England,field,India,JJ Bumrah,India,144,8,England,139,6,2017
+1034829,T20,male,2017-02-01,M Chinnaswamy Stadium,Bangalore,India,England,England,field,India,YS Chahal,India,202,6,England,127,10,2017
+1041615,T20,male,2016-08-27,Central Broward Regional Park Stadium Turf Ground,Lauderhill,India,West Indies,India,field,West Indies,E Lewis,West Indies,245,6,India,244,4,2016
+1041617,T20,male,2016-08-28,Central Broward Regional Park Stadium Turf Ground,Lauderhill,India,West Indies,India,field,No Result,,West Indies,143,10,India,15,0,2016
